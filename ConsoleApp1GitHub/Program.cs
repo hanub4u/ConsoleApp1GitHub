@@ -10,6 +10,7 @@ namespace ConsoleApp1GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to .NET world");
         }
     }
 }
